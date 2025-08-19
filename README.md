@@ -5,7 +5,7 @@ It includes animations, music, and fun effects to celebrate Francesca’s specia
 
 ## 🚀 How to view
 You can open the live site here:  
-👉 [https://FounderHassan.github.io/](https://FounderHassan.github.io/hassan/)
+👉 [https://FounderHassan.github.io/]https://github.com/FounderHassan/hassan.git
 ## 📂 Files
 - `index.html` → main web page  
 - `bg.jpg` → background image  
@@ -17,4 +17,5 @@ You can open the live site here:
 - Works best on mobile or desktop Chrome.  
 - Swipe to navigate slides.  
 - Turn on audio for full experience 🎶
+
 # sample
